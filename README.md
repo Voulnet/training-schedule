@@ -3,6 +3,18 @@ Schedule of my public security training courses!
 
 # 2019:
 
+## Event: Blackhat Europe 2019
+
+Course Name: Attacking and Securing APIs
+
+Location: London, UK
+
+Dates: 2-3 December 2019
+
+Link: https://www.blackhat.com/eu-19/training/schedule/index.html#attacking-and-securing-apis-15133
+
+
+
 ## Event: Blackhat USA 2019
 
 Course Name: Attacking and Securing APIs
@@ -25,16 +37,6 @@ Dates: 5-6 August 2019
 
 Link: https://www.blackhat.com/us-19/training/schedule/#attacking-and-securing-apis-143991547572613
 
-
-## Event: Blackhat Europe 2019
-
-Course Name: Attacking and Securing APIs
-
-Location: London, UK
-
-Dates: 2-3 December 2019
-
-Link: https://www.blackhat.com/eu-19/training/schedule/index.html#attacking-and-securing-apis-15133
 
 
 ## Event: OPCDE Dubai 2019 - DONE
