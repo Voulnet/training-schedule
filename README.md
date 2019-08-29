@@ -15,7 +15,7 @@ Link: https://www.blackhat.com/eu-19/training/schedule/index.html#attacking-and-
 
 
 
-## Event: Blackhat USA 2019
+## Event: Blackhat USA 2019 - DONE
 
 Course Name: Attacking and Securing APIs
 
@@ -27,7 +27,7 @@ Link: https://www.blackhat.com/us-19/training/schedule/#attacking-and-securing-a
 
 
 
-## Event: Blackhat USA 2019
+## Event: Blackhat USA 2019 - DONE 
 
 Course Name: Attacking and Securing APIs
 
