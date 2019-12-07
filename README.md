@@ -3,7 +3,7 @@ Schedule of my public security training courses!
 
 # 2019:
 
-## Event: Blackhat Europe 2019
+## Event: Blackhat Europe 2019 - DONE
 
 Course Name: Attacking and Securing APIs
 
