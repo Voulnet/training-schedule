@@ -4,27 +4,15 @@ Schedule of my public security training courses!
 # 2020:
 
 
-## Event: Blackhat USA 2020
+## Event: Blackhat USA 2020 Virtual
 
 Course Name: Attacking and Securing APIs
 
-Location: Las Vegas, USA
-
-Dates: 1-2 August 2020
-
-Link: https://www.blackhat.com/us-20/training/schedule/index.html?_mc=em_x_BHUSA20_LEADS&elq_mid=1518&elq_cid=70526#attacking-and-securing-apis-18608
-
-
-
-## Event: Blackhat USA 2020 
-
-Course Name: Attacking and Securing APIs
-
-Location: Las Vegas, USA
+Location: (Virtual, Online) (Timezone: Las Vegas, USA)
 
 Dates: 3-4 August 2020
 
-Link: https://www.blackhat.com/us-20/training/schedule/index.html?_mc=em_x_BHUSA20_LEADS&elq_mid=1518&elq_cid=70526#attacking-and-securing-apis-186081577138986
+Link: https://www.blackhat.com/us-20/training/schedule/index.html?_mc=em_x_BHUSA20_LEADS&elq_mid=1518&elq_cid=70526#attacking-and-securing-apis-18608
 
 
 
