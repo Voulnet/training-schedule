@@ -38,7 +38,20 @@ Link: https://www.blackhat.com/asia-21/training/schedule/index.html#attacking-an
 # 2020:
 
 
-## Event: Blackhat USA 2020 Virtual
+## Event: Blackhat EU 2020 Virtual DONE
+
+Course Name: Attacking and Securing APIs
+
+Location: (Virtual, Online) (Timezone: London, UK)
+
+Dates: 7-8 December 2020
+
+Link: https://blackhat.com/eu-20/training/schedule/#attacking-and-securing-apis-19751
+
+
+
+
+## Event: Blackhat USA 2020 Virtual DONE
 
 Course Name: Attacking and Securing APIs
 
