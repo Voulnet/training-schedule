@@ -1,6 +1,40 @@
 # training-schedule
 Schedule of my public security training courses!
 
+# 2021:
+
+
+## Event: Blackhat USA 2021 Virtual
+
+Course Name: Attacking and Securing APIs
+
+Location: (Virtual, Online) (Timezone: Las Vegas, USA)
+
+Dates: 2-3 August 2021
+
+Link: https://www.blackhat.com/us-21/training/schedule/#attacking-and-securing-apis-219771617743304
+
+Dates: 31 July - 1 August 2021
+
+Link: https://www.blackhat.com/us-21/training/schedule/#attacking-and-securing-apis-21977
+
+
+
+
+
+## Event: Blackhat Asia 2021 Virtual
+
+Course Name: Attacking and Securing APIs
+
+Location: (Virtual, Online) (Timezone: Singapore)
+
+Dates: 4-5 May 2021
+
+Link: https://www.blackhat.com/asia-21/training/schedule/index.html#attacking-and-securing-apis-21805
+
+
+
+
 # 2020:
 
 
